@@ -1,6 +1,6 @@
 Based on original repository 
 
-https://www.nuget.org/packages/ReedSolomonCore/1.0.0
+https://github.com/TanukiSharp/ReedSolomon
 
 # Install
 
